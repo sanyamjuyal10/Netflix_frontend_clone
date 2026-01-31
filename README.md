@@ -16,7 +16,6 @@ This project focuses on recreating Netflix’s homepage UI with a clean layout a
 ## 🛠️ Tech Stack
 - HTML5  
 - CSS3  
-- JavaScript  
 - Git & GitHub  
 
 ---
